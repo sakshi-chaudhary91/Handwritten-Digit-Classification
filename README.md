@@ -17,4 +17,4 @@ A beginner-friendly deep learning project that builds, trains, and evaluates an 
 * TensorFlow / Keras
 * NumPy
 * Scikit-Learn
-* Matplotlib
+* Matplotlib 
