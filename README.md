@@ -10,7 +10,7 @@ A beginner-friendly deep learning project that builds, trains, and evaluates an 
   * Dense Hidden Layer (128 units, ReLU activation)
   * Dropout Layer (to prevent overfitting)
   * Dense Output Layer (10 units, Softmax activation)
-* **Performance:** Achieves around **97.9% accuracy** on the test dataset.
+* **Performance:** Achieves around **97.9% accuracy** on the test dataset. 
 
 ## 🛠️ Tech Stack
 * Python
