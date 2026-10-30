@@ -4,7 +4,7 @@ A beginner-friendly deep learning project that builds, trains, and evaluates an 
 
 ## 🚀 Features
 * **Dataset:** MNIST handwritten digits (28x28 grayscale images).
-* **Architecture:** Fully-Connected Feedforward Neural Network built with Keras (`Sequential` model).
+* **Architecture:** Fully-Connected Feedforward Neural Network built with Keras (`Sequential` model). 
   * Input Layer
   * Flatten Layer
   * Dense Hidden Layer (128 units, ReLU activation)
